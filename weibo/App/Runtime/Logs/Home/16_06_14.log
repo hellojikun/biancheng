@@ -1,0 +1,165 @@
+[ 2016-06-14T16:10:44+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-06-14T16:10:44+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-06-14T16:10:44+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-06-14T16:10:44+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-06-14T16:11:37+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-06-14T16:15:16+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-06-14T16:15:16+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-06-14T16:15:16+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2016-06-14T20:13:24+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-06-14T20:13:24+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-06-14T20:13:24+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-06-14T20:13:24+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-06-14T20:13:24+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-06-14T20:13:31+08:00 ] ::1 /weibo/Home/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 非法操作:index
+
+[ 2016-06-14T20:15:50+08:00 ] ::1 /weibo/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+
+[ 2016-06-14T20:15:50+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+
+[ 2016-06-14T20:15:50+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-06-14T20:15:57+08:00 ] ::1 /weibo/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-06-14T20:15:57+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-06-14T20:15:57+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+
+[ 2016-06-14T23:24:42+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+
+[ 2016-06-14T23:24:42+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2016-06-14T23:24:43+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+
+[ 2016-06-14T23:24:48+08:00 ] ::1 /weibo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-06-14T23:24:48+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-06-14T23:24:48+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-06-14T23:25:04+08:00 ] ::1 /weibo/Home/User/checkVerify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002523s ]
+SQL: DESCRIBE weibo_user [ RunTime:0.033826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2016-06-14T23:55:01+08:00 ] ::1 /weibo/Login/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 非法操作:index.js.map
+
+[ 2016-06-14T23:55:01+08:00 ] ::1 /weibo/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-06-14T23:55:02+08:00 ] ::1 /weibo/Login/verify.html?a=b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+
+[ 2016-06-14T23:55:02+08:00 ] ::1 /weibo/Login/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 非法操作:index.js.map
+

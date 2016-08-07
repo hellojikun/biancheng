@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: index - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\jk\AppData\Local\Temp\RSP6CE0.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/index.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\jk\Desktop\剑指offer\5.从尾到头打印链表\index.c"
+]
+Creating command line "cl.exe @C:\Users\jk\AppData\Local\Temp\RSP6CE0.tmp" 
+<h3>Output Window</h3>
+Compiling...
+index.c
+c:\users\jk\desktop\剑指offer\5.从尾到头打印链表\index.c(18) : error C2065: 'pListedHead' : undeclared identifier
+c:\users\jk\desktop\剑指offer\5.从尾到头打印链表\index.c(18) : error C2100: illegal indirection
+c:\users\jk\desktop\剑指offer\5.从尾到头打印链表\index.c(18) : warning C4047: '=' : 'struct Node *' differs in levels of indirection from 'int '
+c:\users\jk\desktop\剑指offer\5.从尾到头打印链表\index.c(19) : error C2143: syntax error : missing ')' before '!'
+c:\users\jk\desktop\剑指offer\5.从尾到头打印链表\index.c(19) : error C2059: syntax error : '='
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+index.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
